@@ -25,7 +25,7 @@ I'm actively looking to apply these skills in a professional QA role where I can
 
 ## Resume
 
-📄 [Download Resume (PDF)](./Michael_Beckstrand_Resume.pdf) *(upload to your repo)*
+📄 [Download Resume (PDF)](./Michael_Beckstrand_Resume.pdf) 
 
 Or view highlights below:
 
