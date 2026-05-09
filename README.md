@@ -25,7 +25,7 @@ I'm actively looking to apply these skills in a professional QA role where I can
 
 ## Resume
 
-📄 [Resume]([./Michael_Beckstrand_Resume.pdf](https://docs.google.com/document/d/13gInikPyd3TDW4Q1QeQCWngMu-ks_L7-ULRyWArl0kc/edit?usp=sharing)) 
+📄 [Resume](https://docs.google.com/document/d/13gInikPyd3TDW4Q1QeQCWngMu-ks_L7-ULRyWArl0kc/edit?usp=sharing)
 
 Or view highlights below:
 
