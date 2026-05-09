@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a detail-oriented QA specialist based in Lehi, UT with a background that spans software quality assurance, electronics testing, and production QC. I graduated from Mountainland Technical College's Software Quality Assurance Program and hold a Google Cybersecurity Professional Certificate, with CompTIA A+ in progress.
+I'm a detail-oriented QA specialist based in Lehi, UT, with a background that spans software quality assurance, electronics testing, and production QC. I graduated from Mountainland Technical College's Software Quality Assurance Program and hold a Google Cybersecurity Professional Certificate, with CompTIA A+ in progress.
 
 My approach to QA combines structured test design with practical hands-on experience: I write clear, reproducible test cases, document defects thoroughly, and think carefully about what should and shouldn't be automated. I'm comfortable working across manual and automated testing, bug tracking tools, and API testing environments.
 
@@ -25,7 +25,7 @@ I'm actively looking to apply these skills in a professional QA role where I can
 
 ## Resume
 
-📄 [Download Resume (PDF)](./Michael_Beckstrand_Resume.pdf) 
+📄 [Resume]([./Michael_Beckstrand_Resume.pdf](https://docs.google.com/document/d/13gInikPyd3TDW4Q1QeQCWngMu-ks_L7-ULRyWArl0kc/edit?usp=sharing)) 
 
 Or view highlights below:
 
@@ -46,7 +46,7 @@ Or view highlights below:
 
 **Test Documentation**
 - Write structured test cases with clear preconditions, steps, expected results, and reasoning
-- Author detailed bug tickets including severity ratings, reproduction steps, and expected vs. actual results
+- Author detailed bug tickets, including severity ratings, reproduction steps, and expected vs. actual results
 - Produce test plans covering scope, success criteria, timelines, and resource allocation
 
 **Automation**
