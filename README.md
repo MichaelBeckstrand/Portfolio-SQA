@@ -84,11 +84,11 @@ Or view highlights below:
 
 ## Certifications & Education
 
-- **Software Quality Assurance Certification** — Mountainland Technical College, Lehi UT
+- **Software Quality Assurance Certification** — MTEC, Lehi UT
 - **theCaseWork Externship Certificate**
 - **Google Cybersecurity Professional Certificate**
 - **CompTIA A+** *(In Progress)*
-- **Culinary Arts Certificate** — MTEC
+- **Culinary Arts Certificate** — MTEC, Lehi UT
 
 ---
 
